@@ -1,0 +1,14 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: resource.manager.audit@gmail.com
+    password: C#(&8rh8hf
+    properties.mail.smtp.auth: true
+    properties.mail.smtp.starttls.enable: true
+
+kafka:
+  server:
+  topic:
+  username:
+  password:
